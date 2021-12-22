@@ -1,1 +1,1 @@
-# Next-Bolilerplate
+# next-bolilerplate
